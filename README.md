@@ -14,13 +14,13 @@ URL to the project:
 
 Software installed and configuration changes made:
 
-Apache - appropriate settings set to wsgi
-PostgreSQL - 'catalog' user created for limited access
-Git
-pip - Installed relevant packages needed for Catalog App
-Catalog App - can be found at https://github.com/TorelTwiddler/item-catalog-vm
+- Apache - appropriate settings set to wsgi
+- PostgreSQL - 'catalog' user created for limited access
+- Git
+- pip - Installed relevant packages needed for Catalog App
+- Catalog App - can be found at https://github.com/TorelTwiddler/item-catalog-vm
 
-`grader` user created with sudo access.
-ssh disabled for root.
-Firewall set to only allow 2200, http and ntp.
-Timezone set to UTC.
+- `grader` user created with sudo access.
+- ssh disabled for root.
+- Firewall set to only allow 2200, http and ntp.
+- Timezone set to UTC.
